@@ -1,0 +1,18 @@
+.env*
+.vercel
+node_modules
+
+# Arquivos locais e privados
+.env
+.env.local
+.env.*.local
+node_modules/
+.venv/
+__pycache__/
+.vercel/
+.expo/
+.browser/
+*.dump
+*.db
+*.log
+.DS_Store

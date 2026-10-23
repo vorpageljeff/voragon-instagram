@@ -1,0 +1,12 @@
+{
+  "data": "2026-10-23",
+  "origem": "Voragon_Instagram",
+  "arquivos_incluidos": 7,
+  "exclusoes": [
+    {
+      "path": ".env.local",
+      "reason": "environment"
+    }
+  ],
+  "nota": "Publicação de acervo. Credenciais, dados operacionais, sessões e backups não foram incluídos. Não é release de produção."
+}
